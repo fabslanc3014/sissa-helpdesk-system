@@ -1,0 +1,8 @@
+{
+  "name": "SISSA Tech Support Suite",
+  "description": "An IT ticketing, Mayday tracker, asset control, and reporting suite for SISSA and I686 Online Shop.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
